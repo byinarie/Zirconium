@@ -20,5 +20,5 @@ ZIRCONIUM will begin to scan the system, outputting notification balloons to the
 corner of the screen.
 
 
-Once ZIRCONIUM has completed its' scan, you will find a .txt file on your desktop labeled "ZIRCONIUM-Info.txt"
+Once ZIRCONIUM has completed its scan, you will find a .txt file on your desktop labeled "ZIRCONIUM-Info.txt"
 that contains any information the application has found, including possible compromise, bad filepaths, etc.
