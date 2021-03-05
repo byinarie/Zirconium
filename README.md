@@ -1,3 +1,4 @@
+![Copy of site photo temp (18)](https://user-images.githubusercontent.com/20119926/110186849-17c51080-7ddc-11eb-9ff8-c2901f56694b.png)
 # ZIRCONIUM
 
 ZIRCONIUM has been created to scan for Indicators of Compromise (IOCs) on Exchange Servers for signs of
